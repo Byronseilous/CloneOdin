@@ -1,18 +1,25 @@
-# Odin Project Clone
+# Facebook Clone
 
 ## Description
 
-The Odin Project Clone is an educational platform inspired by The Odin Project. It is designed to provide aspiring developers with a comprehensive and structured path to learn web development for free.
+The Facebook Clone project is a web application inspired by the features and functionalities of Facebook. It's created as part of The Odin Project curriculum to help learners understand and implement key web development concepts.
 
 ## Features
 
-- **Curriculum**:
-  - Offers a structured curriculum covering various web development technologies and concepts.
-  - Includes step-by-step tutorials and resources for each topic.
+- **User Authentication**:
+  - Register and log in securely.
+  - Create and manage user profiles.
 
-- **Projects**:
-  - Provides hands-on coding projects to reinforce learning.
-  - Allows users to submit their project solutions for feedback.
+- **Posts and Comments**:
+  - Users can create, view, edit, and delete posts.
+  - Leave comments on posts.
 
-- **Community**:
-  - Features a community forum where users can ask questions, share knowledge, and collaborate on projects.
+- **Friend Requests**:
+  - Send and accept friend requests.
+  - Manage your list of friends.
+
+- **News Feed**:
+  - See a personalized news feed with posts from friends.
+
+- **Real-time Updates**:
+  - Implement real-time updates for new posts and notifications.
